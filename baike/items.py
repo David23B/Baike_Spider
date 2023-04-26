@@ -8,6 +8,7 @@ import scrapy
 
 class BaikeItem(scrapy.Item):
     # define the fields for your item here like:
+    id = scrapy.Field()  # 人物id
     name = scrapy.Field()  # 人名
     summary = scrapy.Field()  # 简介
     basic_info = scrapy.Field()  # 基本信息

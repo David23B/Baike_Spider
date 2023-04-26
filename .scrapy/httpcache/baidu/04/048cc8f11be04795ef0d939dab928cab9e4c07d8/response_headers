@@ -1,0 +1,13 @@
+Content-Length: 1
+Content-Encoding: br
+Content-Security-Policy-Report-Only: default-src https: 'unsafe-inline' 'unsafe-eval' data: blob: ; report-uri https://reports.baidu.com/csp-report/baike
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 18 Apr 2023 11:26:09 GMT
+Location: https://baike.baidu.com/anticrawl/captchaview?captchaSourceUrl=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E4%25BA%2595%25E6%259F%258F%25E7%2584%25B6&captchaSourceFrom=baike_pc_lemmapage_riskscore
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+Server: nginx/1.8.0
+Set-Cookie: X_ST_FLOW=1; expires=Tue, 18-Apr-2023 11:36:09 GMT; Max-Age=600; path=/
+Set-Cookie: BAIDUID=04961F6BBE584A6AB708EFA010E40ED0:FG=1; expires=Wed, 17-Apr-24 11:26:09 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=04961F6BBE584A6A660D1C76C399BB10:FG=1; expires=Wed, 17-Apr-24 11:26:09 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID_BFESS=04961F6BBE584A6AB708EFA010E40ED0:FG=1; Path=/; Domain=baidu.com; Expires=Wed, 17 Apr 2024 11:26:09 GMT; Max-Age=31536000; Secure; SameSite=None
