@@ -1,0 +1,811 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-04">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="5" title="relationName" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="summary" type="string" />
+      <attribute id="2" title="basic_info" type="string" />
+      <attribute id="3" title="relation" type="string" />
+      <attribute id="4" title="biography" type="string" />
+    </attributes>
+    <nodes>
+      <node id="8511458" label="8511458">
+        <attvalues>
+          <attvalue for="0" value="蔡徐坤" />
+          <attvalue for="1" value="蔡徐坤（KUN），1998年8月2日出生于浙江省温州市，户籍湖南吉首，中国内地男歌手、演员、原创音乐制作人、MV导演。2012年8月，蔡徐坤参演的偶像剧《童话二分之一》播出，由此开始步入大众视线。2018年1月，参加竞演类综艺节目《偶像练习生》并以总票数第一正式出道，成为限定男团NINE PERCENT队长；8月，发行首张EP《1》，获2018亚洲新歌榜年度盛典最受欢迎潜力男歌手奖；随后，他还发行原创单曲《Wait Wait Wait》，并携手格莱美奖最佳MV获奖导演戴夫·迈尔斯打造歌曲MV。2019年1月，被授予“中牙友好大使暨中牙杰出青年领袖人物”称号；3月，成功开启横跨三个国家、六座城市的海外公演《ONE》；7月，发行首张数字专辑《YOUNG》；10月，携手中国儿童少年基金会共同设立“葵计划爱心基金”。2020年3月，加盟《青春有你第二季》担任青春制作人代表；4月9日，原创公益歌曲《Home》全网上线；随后，加盟户外竞技真人秀《奔跑吧第四季》担任常驻MC；7月，获第27届东方风云榜最佳男歌手等三个奖项。2021年1月，获得第二届TMEA腾讯音乐娱乐盛典年度最具影响力唱作歌手和年度最具号召力歌手两个奖项，单曲《情人》获得年度十大金曲奖；4月13日，发行个人创作专辑《迷》；7月17日，于北京凯迪拉克中心举办首场个人巡回演唱会，同年获第三届TMEA腾讯音乐娱乐盛典年度最具影响力制作人等多项荣誉。2023年1月24日，参加《奋进新征程——2023中国网络视听年度盛典》，演唱歌曲《默片》。" />
+          <attvalue for="2" value="中文名: 蔡徐坤, 外文名: KUN, 国籍: 中国, 民族: 汉族, 出生地: 浙江温州, 出生日期: 1998年8月2日, 星座: 狮子座, 血型: A型, 身高: 184 cm, 体重: 60 kg, 职业: 歌手、演员、音乐制作人, 经纪公司: 蔡徐坤工作室, 代表作品: &quot;重生、情人、Home、迷、YOUNG、没有意外、蒙着眼、Wait Wait Wait、Pull Up、You Can Be My GirlFriend、Hard To Get、ITS YOU、Hug me&quot;, 主要成就: 第十五届MAHB年度先生盛典年度先生奖2019智族GQ年度人物盛典年度人气偶像奖中牙友好大使暨中牙杰出青年领袖人物2020TMEA音乐盛典年度最具号召力歌手、最具影响力创作歌手音乐盛典咪咕汇2020年度内地最佳男歌手、内地最受欢迎男歌手展开主要成就第十五届MAHB年度先生盛典年度先生奖2019智族GQ年度人物盛典年度人气偶像奖中牙友好大使暨中牙杰出青年领袖人物2020TMEA音乐盛典年度最具号召力歌手、最具影响力创作歌手音乐盛典咪咕汇2020年度内地最佳男歌手、内地最受欢迎男歌手2020微博之夜微博年度原创音乐人收起, 户籍: 湖南吉首, 粉丝名: IKUN, 性别: 男, 毕业学校: 深圳市南山区第二实验学校" />
+          <attvalue for="3" value="队友: [刘也, 赵品霖, 俞更寅, 吾木提·吐尔逊, 何屹繁], 搭档: [李晨, Angelababy, 郑恺, 白鹿], 前队友: [范丞丞, 陈立农, 黄明昊, 林彦俊, 朱正廷, 王子异, 小鬼, 尤长靖]" />
+          <attvalue for="4" value="该人物没有人物生平相关信息" />
+        </attvalues>
+      </node>
+      <node id="10320867" label="10320867">
+        <attvalues>
+          <attvalue for="0" value="刘也" />
+          <attvalue for="1" value="刘也，1993年11月15日出生于吉林省松原市，中国流行乐男歌手，男子演唱组合SWIN-S、R1SE成员。2015年7月，参加安徽卫视青春励志榜样养成类真人秀《星动亚洲第一季》。2016年，刘也参加《星动亚洲第二季》，进入星动亚洲梦之队，并加入组合SWIN，正式出道；12月，随组合发行首张迷你专辑《New World》。2017年5月，随组合举办巡回歌迷见面会；7月，随组合发行首张数字专辑《EP1》。2018年1月，随组合发行第二张数字专辑《EP2》；2月，参加优酷舞蹈节目《这！就是街舞》，止步12强；2019年4月，作为选手参与录制腾讯视频青年团训选秀节目《创造营2019》，最终在节目中获第8名，成功出道；8月，随R1SE推出首张音乐EP《就要掷地有声的炸裂》；12月，其参与的综艺《十一少年的秋天》上线；并随R1SE推出第二张音乐EP《炸裂狂想曲》。2022年8月4日，官宣参加8月19日举办的耳浪音乐节。" />
+          <attvalue for="2" value="中文名: 刘也, 外文名: 리우예, 别名: 小也、也子, 国籍: 中国, 民族: 汉族, 出生地: 吉林省松原市, 出生日期: 1993年11月15日, 星座: 天蝎座, 身高: 177 cm, 职业: 歌手, 经纪公司: 刘也个人工作室, 代表作品: 就要掷地有声的炸裂、无愧、荣耀的战场、少年如故、R.1.S.E、喊出我的名字、fireman" />
+          <attvalue for="3" value="队友: [俞更寅, 蔡徐坤, 何屹繁, 吾木提·吐尔逊, 赵品霖], 前队友: [任豪]" />
+          <attvalue for="4" value="刘也在北京齐鲁音乐学院和吉林省歌舞团进修过，练习过两年的民族舞，同时还精通现代舞和流行舞，具有中国舞蹈家协会流行舞教师的资格，曾随所属SPY Family舞队参与央视、北京春晚等卫视活动。2012年至2014年期间，刘也参加过《向上吧！少年》《快乐男声》《奇舞飞扬》等选秀节目。刘也" />
+        </attvalues>
+      </node>
+      <node id="18839791" label="18839791">
+        <attvalues>
+          <attvalue for="0" value="赵品霖" />
+          <attvalue for="1" value="赵品霖，1994年6月29日出生于浙江省温州市，中国内地男歌手、演员。2015年，参加青春励志榜样养成类真人秀《星动亚洲第一季》，从而进入演艺圈。2016年，出道加入男子组合SWIN-S，担任主唱，并发行首张迷你专辑《NEW WORLD》。2017年至2018年，随SWIN陆续发行音乐EP《EP1》《EP2》。2019年，在综艺节目《以团之名》决赛获得人气C位，随男子组合Black ACE发行同名EP《BlackACE》；同年，发行个人首张EP《Beautiful》，并在古装玄幻电影《妖宴长安》中首次担纲男主。2020年，发行个人第二张EP《Moon Light》。2021年，主演的古装玄幻电影《妖宴洛阳》上线。2022年，主演的都市爱情剧《你是我的美味》和古装轻喜剧《沧月绘》相继播出。2023年，发行音乐EP《不完美命题》。" />
+          <attvalue for="2" value="中文名: 赵品霖, 外文名: Pearain짜오핀린, 国籍: 中国, 民族: 汉族, 出生地: 浙江省温州市, 出生日期: 1994年6月29日, 星座: 巨蟹座, 身高: 180 cm, 体重: 67.5 kg, 毕业院校: 横店影视职业学院, 职业: 歌手、演员, 代表作品: 习惯了、黄金海岸、灰烬、淋雨的花火" />
+          <attvalue for="3" value="队友: [刘也, 蔡徐坤, 何屹繁, 吾木提·吐尔逊, 俞更寅]" />
+          <attvalue for="4" value="赵品霖大学时就读于浙江横店影视职业学院，主修表演专业。2014年，他参加周星驰执导的3D喜剧电影《美人鱼》全国选角大赛，在10万选手中入选全国43强；同年，获金马传奇影视新星一等奖和最具活力奖。在学校期间，他作为东阳十佳歌手出席第六届“青牛奖”颁奖盛典，表演《另一个天堂》。, 生日写真" />
+        </attvalues>
+      </node>
+      <node id="18688704" label="18688704">
+        <attvalues>
+          <attvalue for="0" value="俞更寅" />
+          <attvalue for="1" value="俞更寅，1996年4月28日出生于广东省，中国内地流行乐男歌手、演员、舞者。2015年，参加安徽卫视与韩国MBC电视台联合创办的综艺节目《星动亚洲第一季》，最终入围前15强。2016年，参加《星动亚洲第二季》，最终获得梦之队7强；同年，正式以男子团体SWIN成员身份出道，并担任音乐小分队SWIN-S的主唱兼队长。2018年，正式单飞，并成立俞更寅（上海）文化传媒工作室。2019年，以常驻评委身份参加海峡卫视两岸高校音乐大赛《青春最强音第三季》 ；同年，出演个人首部电影《兔子暴力》。2020年，主演古装爱情喜剧《原来是花男城啊！》。2021年，发布首支个人原创单曲《你还好吗》；同年，作为学员参加腾讯视频国际青年文化交流男团成长综艺《创造营2021》；8月，发布首张个人音乐专辑《梦原体》。" />
+          <attvalue for="2" value="中文名: 俞更寅, 外文名: Gengyin Yu, 别名: 小鱼、俞队, 国籍: 中国, 出生地: 广东省汕尾市陆丰市, 出生日期: 1996年4月28日, 星座: 金牛座, 身高: 183 cm, 体重: 68 kg, 毕业院校: 华强职业技术学院, 职业: 歌手、演员、舞者, 经纪公司: 俞更寅（上海）文化传媒工作室, 代表作品: 你还好吗、Top Now、准备好没有、梦岛、KeepRunning, 主要成就: 2015年《星动亚洲第一季》15强2016年《星动亚洲第二季》梦之队7强, 所属组合: SWIN、SWIN-S, 队内职务: 队长、主唱, 性别: 男" />
+          <attvalue for="3" value="队友: [刘也, 赵品霖, 何屹繁, 吾木提·吐尔逊, 蔡徐坤]" />
+          <attvalue for="4" value="俞更寅出生于广东省，并在那里读书、成长。在学校就读期间，担任学生会外联部部长、音乐社社员，以《星期六的深夜》等歌曲成为校园十大歌手之一；此外，他还凭借一曲《可惜不是你》获得学校第三届校园十佳歌手第一名。" />
+        </attvalues>
+      </node>
+      <node id="16273205" label="16273205">
+        <attvalues>
+          <attvalue for="0" value="吾木提·吐尔逊" />
+          <attvalue for="1" value="吾木提·吐尔逊（Umut），1999年7月7日出生于新疆乌鲁木齐，男子组合SWIN成员，中国内地男歌手。2011年，吾木提·吐尔逊首次参加综艺节目《舞动好声音》。2014年5月，他又参加了浙江卫视主办的专业舞蹈评论节目《中国好舞蹈》。2014年11月21日，参加真人秀节目《中国好男儿》，最终进入全国前24强。2015年7月10日，吾木提·吐尔逊随Bswan团队获得了《星动亚洲》第一季冠军。2016年10月，因加入10人男子组合SWIN而正式出道；12月20日，所在组合SWIN-S发行首张迷你专辑《New World》。" />
+          <attvalue for="2" value="中文名: 吾木提·吐尔逊, 外文名: Umut, 别名: 希望, 国籍: 中国, 民族: 维吾尔族, 出生地: 新疆乌鲁木齐, 出生日期: 1999年7月7日, 星座: 巨蟹座, 血型: B型, 身高: 175 cm, 职业: 舞者、歌手, 经纪公司: 海尧（上海）影视传媒有限公司, 代表作品: New World、For You, 所在组合: SWIN" />
+          <attvalue for="3" value="队友: [刘也, 赵品霖, 俞更寅, 蔡徐坤, 何屹繁]" />
+          <attvalue for="4" value="该人物没有人物生平相关信息" />
+        </attvalues>
+      </node>
+      <node id="20273399" label="20273399">
+        <attvalues>
+          <attvalue for="0" value="何屹繁" />
+          <attvalue for="1" value="何屹繁，1998年8月22日出生于四川宜宾，中国内地影视男演员、流行乐歌手。2015年10月16日，在安徽卫视青春励志真人秀《星动亚洲第一季》中夺冠。2016年3月4日，参与录制的青春励志真人秀《星动亚洲第二季》在安徽卫视播出；10月18日，以SWIN-S成员身份出道。2017年7月17日，随SWIN发布专辑《EP1》。2018年8月22日，发布个人全创作单曲《LEO KING》。2019年1月17日，参与录制的综艺节目《以团之名》在优酷视频播出。2020年5月27日，参演的古装武侠校园喜剧《暴走武林学园》在爱奇艺播出。2021年2月17日，参与录制的男团成长综艺《创造营2021》在腾讯视频播出。" />
+          <attvalue for="2" value="中文名: 何屹繁, 外文名: Leo, 国籍: 中国, 民族: 汉族, 出生地: 四川宜宾, 出生日期: 1998年8月22日, 星座: 狮子座, 身高: 175 cm, 体重: 55 kg, 毕业院校: 四川音乐学院, 职业: 歌手、演员, 经纪公司: 浩鑫娱乐, 代表作品: New World、LEO KING、星动亚洲、创造营2021, 主要成就: 《星动亚洲》第一季冠军队队员之一《星动亚洲》第二季最终梦之队七人之一《以团之名》未知少年队班长, 组合: SWIN-S" />
+          <attvalue for="3" value="队友: [刘也, 赵品霖, 俞更寅, 蔡徐坤, 吾木提·吐尔逊]" />
+          <attvalue for="4" value="该人物没有人物生平相关信息" />
+        </attvalues>
+      </node>
+      <node id="7049" label="7049">
+        <attvalues>
+          <attvalue for="0" value="李晨" />
+          <attvalue for="1" value="李晨，1978年11月24日出生于北京市，中国内地影视男演员、导演、监制、赛车手，毕业于北京群星表演艺术学校。1997年，出演个人首部电视剧《十七岁不哭》，从而正式进入演艺圈。1998年，主演警匪剧《刑警本色》。2002年，在清宫剧《十三格格》中饰演男主角七贝勒。2004年，主演警匪剧《危情24小时》。2005年，主演刑侦剧《一针见血》。2006年，主演军旅励志剧《士兵突击》。2007年，主演剧情电影《地下的天空》。2008年，凭借电影《极限救援》获得“第11届上海电影节传媒大奖”最具潜力新人奖。2009年，主演灾难电影《唐山大地震》；同年主演抗战剧《我的团长我的团》。2010年，主演抗战剧《生死线》；同年，在都市情感剧《北京爱情故事》中饰演男主角吴狄。2011年，凭借电影《唐山大地震》获得“第五届娱乐大典”年度电影飞跃人物大奖；同年又主演青春励志剧《北京青年》。2012年，主演近代革命剧《好家伙》。2013年，主演医疗剧《到爱的距离》。2014年，参加浙江卫视户外竞技真人秀《奔跑吧兄弟》的录制；同年，主演古装宫廷剧《武媚娘传奇》。2015年，主演的抗战剧《秀才遇到兵》。2016年，获得“第18届华鼎奖”中国最佳电视剧男演员奖、第23届北京大学生电影节“最受大学生欢迎”的男演员奖。2017年，执导并主演现代空战题材电影《空天猎》。2018年，获得“2016-2017绿色中国年度人物”；同年，主演悬疑剧《七日生》。2019年6月27日，范冰冰宣布与李晨分手。2021年，主演电影《1921》。" />
+          <attvalue for="2" value="中文名: 李晨, 别名: 晨晨、晨儿、晨哥、大黑牛, 国籍: 中国, 民族: 汉族, 出生地: 北京市, 出生日期: 1978年11月24日, 星座: 射手座, 血型: B型, 身高: 180 cm, 体重: 76 kg, 毕业院校: 北京群星表演艺术学校, 职业: 演员、导演、赛车手, 经纪公司: 华谊兄弟时代文化经纪有限公司, 代表作品: 士兵突击、生死线、北京青年、北京爱情故事、好家伙、草帽警察、秀才遇到兵、唐山大地震、空天猎、十七岁不哭、1921、建党伟业, 主要成就: 2015福布斯中国名人榜排名第19位第11届上海国际电影节最具潜力男新人第37届国际艾美奖提名最佳男主角2012华鼎奖百强电视剧最佳男主角偶像励志题材电视剧最佳男演员第31届大众电影百花奖最佳男配角提名展开主要成就2015福布斯中国名人榜排名第19位第11届上海国际电影节最具潜力男新人第37届国际艾美奖提名最佳男主角2012华鼎奖百强电视剧最佳男主角偶像励志题材电视剧最佳男演员第31届大众电影百花奖最佳男配角提名2016年获得第23届北京大学生电影节“最受大学生欢迎”的男演员奖收起, 经纪人: 刘陆" />
+          <attvalue for="3" value="前女友: [范冰冰, 迪丽娜尔], 祖母: [张其超], 好友: [杨烁, 霍思燕, 张歆艺, 邓超, 沙溢, 郑恺, 杜江, 杜淳], 搭档: [马伊琍, 张芷溪, 袁姗姗, 马里山, 蔡徐坤, 马苏, 张译]" />
+          <attvalue for="4" value="ERROR检索人物生平信息出错" />
+        </attvalues>
+      </node>
+      <node id="1509275" label="1509275">
+        <attvalues>
+          <attvalue for="0" value="Angelababy" />
+          <attvalue for="1" value="Angelababy（杨颖），1989年2月28日出生于上海市（一说为香港），华语影视女演员、时尚模特。2003年，Angelababy以模特身份出道，此后，因担任时尚模特而在香港崭露头角。2007年，开始将工作重心转向大银幕。2011年，在爱情片《夏日乐悠悠》中首次担任电影女主角。2012年，凭借言情片《第一次》获得第13届华语电影传媒大奖最受瞩目女演员奖。2013年，与其她三位女艺人被《南都娱乐周刊》选为新“四小花旦”；同年，她还完成了个人的荧屏处女作《大汉情缘之云中歌》。2014年，开始凭借真人秀《奔跑吧兄弟》赢得广泛关注；同年，她还因出演古装片《狄仁杰之神都龙王》获得第21届北京大学生电影节最受欢迎女演员奖。2015年，其主演的冒险片《鬼吹灯之寻龙诀》票房突破16亿人民币，而她也凭借该片获得第33届大众电影百花奖最佳女配角奖。2017年，其主演的古装剧《孤芳不自赏》取得全国同时段电视剧收视冠军。2020年，主演爱情片《明天你是否依然爱我》；同年，第八次入选福布斯中国名人榜，并位列第16位。" />
+          <attvalue for="2" value="中文名: 杨颖, 外文名: Angelababy, 别名: Baby、AB, 国籍: 中国, 民族: 汉族, 出生地: 上海市(一说为香港), 出生日期: 1989年2月28日, 星座: 双鱼座, 血型: O型, 毕业院校: 嘉诺撒圣心商学书院, 职业: 演员、模特, 经纪公司: Angelababy工作室, 代表作品: 夏日乐悠悠、第一次、微微一笑很倾城、鬼吹灯之寻龙诀、狄仁杰之神都龙王、摆渡人、摩天大楼, 主要成就: 华语电影传媒大奖最受瞩目女演员北京大学生电影节最受欢迎女演员第33届大众电影百花奖最佳女配角奖, 生肖: 蛇, 亲属关系: 父母、弟弟、儿子, 使用语言: 普通话、吴语、粤语、英语、日语" />
+          <attvalue for="3" value="儿子: [小海绵], 弟弟: [杨帆], 前夫: [黄晓明], 前男友: [陈伟霆], 好友: [杨幂, 井柏然, 郑恺, 张大大, 韩火火], 搭档: [白鹿, 赵又廷, 任嘉伦, 蔡徐坤, 程枫, 苏青, 盛朗熙, 冯德伦]" />
+          <attvalue for="4" value="ERROR检索人物生平信息出错" />
+        </attvalues>
+      </node>
+      <node id="73530" label="73530">
+        <attvalues>
+          <attvalue for="0" value="郑恺" />
+          <attvalue for="1" value="郑恺（Ryan），1986年4月17日出生于上海市，中国内地影视男演员，毕业于上海戏剧学院表演系。2007年，出演个人首部电影《奔跑吧有情人》，从而正式进入演艺圈。2008年，出演个人首部电视剧《都市六人行》。2009年，主演家庭科幻喜剧《家有外星人》。2010年，在都市励志情感剧《杜拉拉升职记》中饰演周亮。2011年，获得第6届风尚中国榜年度风尚影视新人奖；同年，主演都市爱情励志电影《奋斗》。2012年，主演都市情感剧《离婚前规则》。2013年，在青春爱情电影《致我们终将逝去的青春》中饰演许开阳。2014年，参加浙江卫视户外竞技真人秀节目《奔跑吧兄弟》；同年，凭借电影《前任攻略》获得第2届伦敦国际华语电影节最佳男配角奖。2015年，获得第15届华语电影传媒大奖最受瞩目男演员奖。2016年，在古装武侠剧《国士无双黄飞鸿》中饰演男主角黄飞鸿。2017年，获得时尚先生年度盛典年度实力偶像奖；同年，参加浙江卫视户外竞技真人秀节目《奔跑吧》；10月9日，其主演的都市情感剧《国民大生活》首播；12月8日，获得商业星力量巅峰人物年度盛典年度吸引力明星奖。2018年1月1日，获得国剧盛典年度影响力剧星奖；3月，获得第9届金扫帚奖最令人失望男演员；4月，参与录制浙江卫视明星户外竞技真人秀《奔跑吧第二季》；5月，参与录制东方卫视体验型励志综艺节目《青春同学会》；10月25日，获得时装之夜年度盛典时代创造力奖。12月，获得美国《综艺》杂志-跨越亚洲·明日之星奖。" />
+          <attvalue for="2" value="中文名: 郑恺, 外文名: Ryan, 别名: 小猎豹, 国籍: 中国, 民族: 汉族, 出生地: 上海市, 出生日期: 1986年4月17日, 星座: 白羊座, 血型: AB型, 身高: 178 cm, 体重: 65 kg, 毕业院校: 上海戏剧学院, 职业: 演员, 经纪公司: 华谊兄弟时代文化经纪有限公司, 代表作品: 影、致我们终将逝去的青春、私人订制、前任攻略、国民大生活、也平凡, 主要成就: 2013年“优酷影视盛典电视剧”最具潜力演员奖2013年“风尚中国颁奖盛典”风尚影视新人奖2013年“MSN时尚影响力盛典”年度突破男演员奖2011年“影视盛典”最佳新人奖2018年时装之夜年度盛典时代创造力奖" />
+          <attvalue for="3" value="妻子: [苗苗], 前女友: [程晓玥], 好友: [李晨, Angelababy, 邓超, 沙溢, 白鹿, 杜江], 搭档: [葛优, 蔡徐坤, 韩庚]" />
+          <attvalue for="4" value="ERROR检索人物生平信息出错" />
+        </attvalues>
+      </node>
+      <node id="19866592" label="19866592">
+        <attvalues>
+          <attvalue for="0" value="白鹿" />
+          <attvalue for="1" value="白鹿，1994年9月23日出生于江苏省常州市，中国内地女演员、模特。2016年7月，白鹿在陆虎单曲《留言》MV里担任女主角；9月，出演个人首部电视剧《朝歌》，从而正式进入演艺圈。2017年，白鹿在古装剧《凤囚凰》中一人分饰两角；12月，凭借爱情轻喜剧《大王不容易》获得腾讯视频星光大赏年度潜力电视剧女演员奖；同年，主演剧版《西游记女儿国》，饰演女儿国国王无双。2018年，凭借《凤囚凰》获得“年度戏剧潜力艺人”奖项。2019年，主演热血青春剧《烈火军校》和青春偶像剧《半是蜜糖半是伤》。2020年，主演轻喜剧《九流霸主》。2021年，主演古装轻喜剧《玉楼春》；同年，主演的古装剧《周生如故》和电视剧《一生一世》相继在爱奇艺播出。2022年，主演的市“警”百态生活剧《警察荣誉》在央视八套和爱奇艺播出。" />
+          <attvalue for="2" value="中文名: 白鹿, 外文名: Lu Bai, 国籍: 中国, 民族: 汉族, 出生地: 江苏省常州市, 出生日期: 1994年9月23日, 星座: 处女座, 身高: 165 cm, 体重: 47 kg, 毕业院校: 江苏联合职业技术学院(常州旅游商贸分院), 职业: 演员、模特, 经纪公司: 欢娱影视, 代表作品: 招摇、周生如故、一生一世、烈火军校、半是蜜糖半是伤、长月烬明、宁安如梦, 主要成就: 腾讯视频星光大赏年度潜力电视剧女演员, 语种: 普通话、韩语, 特长: 舞蹈、唱歌, 原名: 白梦妍" />
+          <attvalue for="3" value="好友: [庄锭欣, 费启鸣, 刘些宁, 虞书欣, 张逸杰, 郑恺], 搭档: [Angelababy, 张若昀, 邓为, 孙珍妮, 任嘉伦, 张凌赫, 许凯, 罗云熙, 王鹤棣, 蔡徐坤]" />
+          <attvalue for="4" value="ERROR检索人物生平信息出错" />
+        </attvalues>
+      </node>
+      <node id="1296433" label="1296433">
+        <attvalues>
+          <attvalue for="0" value="范丞丞" />
+          <attvalue for="1" value="范丞丞，2000年6月16日出生于山东省青岛市，中国内地男演员、歌手。2018年11月22日，发布首支个人单曲《I'm Here》；12月18日，获得第十届新京报“中国时尚权力榜”年度新势力艺人。2018年至2020年，连续三年参加浙江卫视跨年演唱会。2019年5月，担任浙江卫视《青春环游记》常驻嘉宾；6月16日，发行专辑《Like A Fan》；10月17日，范丞丞入选2019福布斯中国30位30岁以下精英榜。2020年，发行了首张EP《EMERGING》；2021年1月，主演的神话新武侠剧《灵域》在爱奇艺播出，饰演秦烈；3月3日，法国奢侈品牌纪梵希宣布歌手及演员范丞丞成为其品牌代言人；11月3日，主演的轻科幻冒险悬疑剧《致命愿望》在爱奇艺播出，饰演裘文东；11月19日，主演的电影《门锁》上映，饰演保安小吴。2022年5月，主演电影《了不起的夜晚》开机；7月29日，主演的电视剧《被遗忘的时光》在芒果tv播出，饰演路小凡。8月，宣布领衔主演电影《拨云见日》，并亮相第十二届北京国际电影节开幕式；8月14日，获得新浪2022微博电影之夜盛典“年度潜力演员”荣誉。" />
+          <attvalue for="2" value="中文名: 范丞丞, 外文名: Adam, 别名: 福西西, 国籍: 中国, 民族: 汉族, 出生地: 山东省青岛市, 出生日期: 2000年6月16日, 星座: 双子座, 血型: A型, 身高: 183 cm, 体重: 66 kg, 职业: 演员、歌手, 经纪公司: 范丞丞工作室, 代表作品: &quot;了不起的夜晚、Im Here、门锁、致命愿望、灵域&quot;, 主要成就: 第十届新京报“中国时尚权力榜”年度时尚艺人2018搜狐时尚盛典年度时尚影响力男明星2022微博电影之夜年度潜力演员, 所属团体: 乐华七子NEXT组合" />
+          <attvalue for="3" value="父亲: [范涛], 母亲: [张传美], 姐姐: [范冰冰], 堂妹: [范朵朵], 队友: [李权哲, 黄新淳, 丁泽仁, 毕雯珺, 朱正廷, 黄明昊], 搭档: [张一山, 杨紫, 朱颜曼滋], 前队友: [陈立农, 林彦俊, 王子异, 小鬼, 尤长靖, 蔡徐坤]" />
+          <attvalue for="4" value="ERROR检索人物生平信息出错" />
+        </attvalues>
+      </node>
+      <node id="22348180" label="22348180">
+        <attvalues>
+          <attvalue for="0" value="陈立农" />
+        </attvalues>
+      </node>
+      <node id="21506312" label="21506312">
+        <attvalues>
+          <attvalue for="0" value="黄明昊" />
+        </attvalues>
+      </node>
+      <node id="22414884" label="22414884">
+        <attvalues>
+          <attvalue for="0" value="林彦俊" />
+        </attvalues>
+      </node>
+      <node id="22348656" label="22348656">
+        <attvalues>
+          <attvalue for="0" value="朱正廷" />
+        </attvalues>
+      </node>
+      <node id="22293630" label="22293630">
+        <attvalues>
+          <attvalue for="0" value="王子异" />
+        </attvalues>
+      </node>
+      <node id="22351766" label="22351766">
+        <attvalues>
+          <attvalue for="0" value="小鬼" />
+        </attvalues>
+      </node>
+      <node id="22375735" label="22375735">
+        <attvalues>
+          <attvalue for="0" value="尤长靖" />
+        </attvalues>
+      </node>
+      <node id="19525301" label="19525301">
+        <attvalues>
+          <attvalue for="0" value="任豪" />
+        </attvalues>
+      </node>
+      <node id="22984" label="22984">
+        <attvalues>
+          <attvalue for="0" value="范冰冰" />
+        </attvalues>
+      </node>
+      <node id="2716220" label="2716220">
+        <attvalues>
+          <attvalue for="0" value="迪丽娜尔" />
+        </attvalues>
+      </node>
+      <node id="18398837" label="18398837">
+        <attvalues>
+          <attvalue for="0" value="张其超" />
+        </attvalues>
+      </node>
+      <node id="1867848" label="1867848">
+        <attvalues>
+          <attvalue for="0" value="杨烁" />
+        </attvalues>
+      </node>
+      <node id="328563" label="328563">
+        <attvalues>
+          <attvalue for="0" value="霍思燕" />
+        </attvalues>
+      </node>
+      <node id="10390484" label="10390484">
+        <attvalues>
+          <attvalue for="0" value="张歆艺" />
+        </attvalues>
+      </node>
+      <node id="5681" label="5681">
+        <attvalues>
+          <attvalue for="0" value="邓超" />
+        </attvalues>
+      </node>
+      <node id="160030" label="160030">
+        <attvalues>
+          <attvalue for="0" value="沙溢" />
+        </attvalues>
+      </node>
+      <node id="3697038" label="3697038">
+        <attvalues>
+          <attvalue for="0" value="杜江" />
+        </attvalues>
+      </node>
+      <node id="2127557" label="2127557">
+        <attvalues>
+          <attvalue for="0" value="杜淳" />
+        </attvalues>
+      </node>
+      <node id="5444261" label="5444261">
+        <attvalues>
+          <attvalue for="0" value="马伊琍" />
+        </attvalues>
+      </node>
+      <node id="1351450" label="1351450">
+        <attvalues>
+          <attvalue for="0" value="张芷溪" />
+        </attvalues>
+      </node>
+      <node id="936741" label="936741">
+        <attvalues>
+          <attvalue for="0" value="袁姗姗" />
+        </attvalues>
+      </node>
+      <node id="8076834" label="8076834">
+        <attvalues>
+          <attvalue for="0" value="马里山" />
+        </attvalues>
+      </node>
+      <node id="604546" label="604546">
+        <attvalues>
+          <attvalue for="0" value="马苏" />
+        </attvalues>
+      </node>
+      <node id="4637596" label="4637596">
+        <attvalues>
+          <attvalue for="0" value="张译" />
+        </attvalues>
+      </node>
+      <node id="1653380" label="1653380">
+        <attvalues>
+          <attvalue for="0" value="小海绵" />
+        </attvalues>
+      </node>
+      <node id="16532908" label="16532908">
+        <attvalues>
+          <attvalue for="0" value="杨帆" />
+        </attvalues>
+      </node>
+      <node id="6597" label="6597">
+        <attvalues>
+          <attvalue for="0" value="黄晓明" />
+        </attvalues>
+      </node>
+      <node id="3463936" label="3463936">
+        <attvalues>
+          <attvalue for="0" value="陈伟霆" />
+        </attvalues>
+      </node>
+      <node id="149851" label="149851">
+        <attvalues>
+          <attvalue for="0" value="杨幂" />
+        </attvalues>
+      </node>
+      <node id="3974108" label="3974108">
+        <attvalues>
+          <attvalue for="0" value="井柏然" />
+        </attvalues>
+      </node>
+      <node id="8142682" label="8142682">
+        <attvalues>
+          <attvalue for="0" value="张大大" />
+        </attvalues>
+      </node>
+      <node id="3617296" label="3617296">
+        <attvalues>
+          <attvalue for="0" value="韩火火" />
+        </attvalues>
+      </node>
+      <node id="779559" label="779559">
+        <attvalues>
+          <attvalue for="0" value="赵又廷" />
+        </attvalues>
+      </node>
+      <node id="16027826" label="16027826">
+        <attvalues>
+          <attvalue for="0" value="任嘉伦" />
+        </attvalues>
+      </node>
+      <node id="23216702" label="23216702">
+        <attvalues>
+          <attvalue for="0" value="程枫" />
+        </attvalues>
+      </node>
+      <node id="1056633" label="1056633">
+        <attvalues>
+          <attvalue for="0" value="苏青" />
+        </attvalues>
+      </node>
+      <node id="13210250" label="13210250">
+        <attvalues>
+          <attvalue for="0" value="盛朗熙" />
+        </attvalues>
+      </node>
+      <node id="371815" label="371815">
+        <attvalues>
+          <attvalue for="0" value="冯德伦" />
+        </attvalues>
+      </node>
+      <node id="20369141" label="20369141">
+        <attvalues>
+          <attvalue for="0" value="苗苗" />
+        </attvalues>
+      </node>
+      <node id="16765829" label="16765829">
+        <attvalues>
+          <attvalue for="0" value="程晓玥" />
+        </attvalues>
+      </node>
+      <node id="335918" label="335918">
+        <attvalues>
+          <attvalue for="0" value="葛优" />
+        </attvalues>
+      </node>
+      <node id="5909" label="5909">
+        <attvalues>
+          <attvalue for="0" value="韩庚" />
+        </attvalues>
+      </node>
+      <node id="8531776" label="8531776">
+        <attvalues>
+          <attvalue for="0" value="庄锭欣" />
+        </attvalues>
+      </node>
+      <node id="22459800" label="22459800">
+        <attvalues>
+          <attvalue for="0" value="费启鸣" />
+        </attvalues>
+      </node>
+      <node id="19974121" label="19974121">
+        <attvalues>
+          <attvalue for="0" value="刘些宁" />
+        </attvalues>
+      </node>
+      <node id="2977841" label="2977841">
+        <attvalues>
+          <attvalue for="0" value="虞书欣" />
+        </attvalues>
+      </node>
+      <node id="3925331" label="3925331">
+        <attvalues>
+          <attvalue for="0" value="张逸杰" />
+        </attvalues>
+      </node>
+      <node id="9080190" label="9080190">
+        <attvalues>
+          <attvalue for="0" value="张若昀" />
+        </attvalues>
+      </node>
+      <node id="55309648" label="55309648">
+        <attvalues>
+          <attvalue for="0" value="邓为" />
+        </attvalues>
+      </node>
+      <node id="11010579" label="11010579">
+        <attvalues>
+          <attvalue for="0" value="孙珍妮" />
+        </attvalues>
+      </node>
+      <node id="23512257" label="23512257">
+        <attvalues>
+          <attvalue for="0" value="张凌赫" />
+        </attvalues>
+      </node>
+      <node id="20580848" label="20580848">
+        <attvalues>
+          <attvalue for="0" value="许凯" />
+        </attvalues>
+      </node>
+      <node id="4798304" label="4798304">
+        <attvalues>
+          <attvalue for="0" value="罗云熙" />
+        </attvalues>
+      </node>
+      <node id="20829313" label="20829313">
+        <attvalues>
+          <attvalue for="0" value="王鹤棣" />
+        </attvalues>
+      </node>
+      <node id="19495242" label="19495242">
+        <attvalues>
+          <attvalue for="0" value="范涛" />
+        </attvalues>
+      </node>
+      <node id="7168451" label="7168451">
+        <attvalues>
+          <attvalue for="0" value="张传美" />
+        </attvalues>
+      </node>
+      <node id="22440660" label="22440660">
+        <attvalues>
+          <attvalue for="0" value="范朵朵" />
+        </attvalues>
+      </node>
+      <node id="22393637" label="22393637">
+        <attvalues>
+          <attvalue for="0" value="李权哲" />
+        </attvalues>
+      </node>
+      <node id="22351180" label="22351180">
+        <attvalues>
+          <attvalue for="0" value="黄新淳" />
+        </attvalues>
+      </node>
+      <node id="22380145" label="22380145">
+        <attvalues>
+          <attvalue for="0" value="丁泽仁" />
+        </attvalues>
+      </node>
+      <node id="22378039" label="22378039">
+        <attvalues>
+          <attvalue for="0" value="毕雯珺" />
+        </attvalues>
+      </node>
+      <node id="11907" label="11907">
+        <attvalues>
+          <attvalue for="0" value="张一山" />
+        </attvalues>
+      </node>
+      <node id="374423" label="374423">
+        <attvalues>
+          <attvalue for="0" value="杨紫" />
+        </attvalues>
+      </node>
+      <node id="19149893" label="19149893">
+        <attvalues>
+          <attvalue for="0" value="朱颜曼滋" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="8511458" target="10320867" id="0">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="18839791" id="1">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="18688704" id="2">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="16273205" id="3">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="20273399" id="4">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="7049" id="5">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="1509275" id="6">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="73530" id="7">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="19866592" id="8">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="1296433" id="9">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22348180" id="10">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="21506312" id="11">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22414884" id="12">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22348656" id="13">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22293630" id="14">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22351766" id="15">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="8511458" target="22375735" id="16">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="10320867" target="19525301" id="17">
+        <attvalues>
+          <attvalue for="5" value="前队友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="22984" id="18">
+        <attvalues>
+          <attvalue for="5" value="前女友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="2716220" id="19">
+        <attvalues>
+          <attvalue for="5" value="前女友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="18398837" id="20">
+        <attvalues>
+          <attvalue for="5" value="祖母" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="1867848" id="21">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="328563" id="22">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="10390484" id="23">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="5681" id="24">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="160030" id="25">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="3697038" id="26">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="2127557" id="27">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="5444261" id="28">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="1351450" id="29">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="936741" id="30">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="8076834" id="31">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="604546" id="32">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="7049" target="4637596" id="33">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="1653380" id="34">
+        <attvalues>
+          <attvalue for="5" value="儿子" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="16532908" id="35">
+        <attvalues>
+          <attvalue for="5" value="弟弟" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="6597" id="36">
+        <attvalues>
+          <attvalue for="5" value="前夫" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="3463936" id="37">
+        <attvalues>
+          <attvalue for="5" value="前男友" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="149851" id="38">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="3974108" id="39">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="8142682" id="40">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="3617296" id="41">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="779559" id="42">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="16027826" id="43">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="23216702" id="44">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="1056633" id="45">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="13210250" id="46">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1509275" target="371815" id="47">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="73530" target="20369141" id="48">
+        <attvalues>
+          <attvalue for="5" value="妻子" />
+        </attvalues>
+      </edge>
+      <edge source="73530" target="16765829" id="49">
+        <attvalues>
+          <attvalue for="5" value="前女友" />
+        </attvalues>
+      </edge>
+      <edge source="73530" target="335918" id="50">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="73530" target="5909" id="51">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="8531776" id="52">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="22459800" id="53">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="19974121" id="54">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="2977841" id="55">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="3925331" id="56">
+        <attvalues>
+          <attvalue for="5" value="好友" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="9080190" id="57">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="55309648" id="58">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="11010579" id="59">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="23512257" id="60">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="20580848" id="61">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="4798304" id="62">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="19866592" target="20829313" id="63">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="19495242" id="64">
+        <attvalues>
+          <attvalue for="5" value="父亲" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="7168451" id="65">
+        <attvalues>
+          <attvalue for="5" value="母亲" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="22440660" id="66">
+        <attvalues>
+          <attvalue for="5" value="堂妹" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="22393637" id="67">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="22351180" id="68">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="22380145" id="69">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="22378039" id="70">
+        <attvalues>
+          <attvalue for="5" value="队友" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="11907" id="71">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="374423" id="72">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+      <edge source="1296433" target="19149893" id="73">
+        <attvalues>
+          <attvalue for="5" value="搭档" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
